@@ -1,7 +1,7 @@
 # SEIFA-RA-app
 A Shiny app that assigns SEIFA scores and Remoteness Areas to cases based upon year and postcode.
 
-Values are assigned from the most appropriate Australian census given each case's year value (2006, 2012, or 2016 census).
+Values are assigned from the most appropriate Australian census given each case's year value (2006, 2011, or 2016 census).
 
 See the Australian Bureau of Statistics website for information about [SEIFA](https://www.abs.gov.au/websitedbs/censushome.nsf/home/seifa) and [Remoteness Areas](https://www.abs.gov.au/websitedbs/D3310114.nsf/home/remoteness+structure).
 
